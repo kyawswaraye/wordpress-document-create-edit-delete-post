@@ -16,7 +16,7 @@
 website တွင် post တင်ခြင်း၊ ဖျက်ခြင်း နှင့် update များပြုလုပ်လိုပါက address bar တွင် မိမိ website ကိုနိုပ်၍ link အဆုံးတွင် **img_1.1** အတိုင်း **/wp-admin** ဟုနိုပ်၍ ဝင်ရပါမည်။အကယ်၍ wp-adminနှင့်ဝင်မရပါက **/?private** ကိုနိုပ်၍ဝင်ရပါမည်။
 
 <figure>
-<img src="/images/img_1.2.png" alt="https://user-images.githubusercontent.com/52080116/193448360-1d8bc1fa-1c3b-43f4-be77-f3e7b1fe534d.png">
+<img src="https://user-images.githubusercontent.com/52080116/193448360-1d8bc1fa-1c3b-43f4-be77-f3e7b1fe534d.png" alt="/images/img_1.2.png">
 <figcaption align = "center"><b>img _ 1.2</b></figcaption>
 </figure>
 
