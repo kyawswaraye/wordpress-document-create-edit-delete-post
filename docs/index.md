@@ -1,4 +1,4 @@
-# wordpress Document(create, edit, delete post)
+# Wordpress Document(create, edit, delete post)
 
 # Table of contents
 
